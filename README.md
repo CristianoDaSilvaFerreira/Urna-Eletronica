@@ -1,4 +1,4 @@
-# Urna Eletronica
+# Urna Eletrônica
 
 Criando uma urna eletronica feita em HTML, CSS e JS. Para pode simular uma votação.
 Lembrando que esse projeto **não tem nada haver como política**, mas sim uma forma de implementar os conhecimentos
@@ -13,4 +13,4 @@ Todo o layout do design foi feito usando somente HTML e CSS, poderia ser feito u
 
 Esse projeto não consiste em fazer uma votação real, ou leva nome de qualquer partido ou cantidado, por tanto ambos são fictícios, abaixo seguer uma simulação do projeto.
 
-
+[](https://github.com/CristianoDaSilvaFerreira/Urna-Eletronica/blob/main/simulacao.gif)
